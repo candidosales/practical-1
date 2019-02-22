@@ -51,3 +51,9 @@ If you have extra time, try performing a k-means clustering (e.g. using `sklearn
 # Handin
 See the bolded "**Handin:**" parts above. On paper or verbally, show a practical demonstrator your response to these to get signed off.
 
+# References
+
+https://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/
+https://github.com/oxford-cs-deepnlp-2017/lectures
+https://github.com/oxford-cs-deepnlp-2017/practical-1 / https://github.com/3ygun/practical-1/blob/master/practical1.ipynb
+https://github.com/oxford-cs-deepnlp-2017/practical-2 / https://gist.github.com/stevenhao/483f96715ba30d46b4bb03fab0066096?short_path=dc4bc3c / https://github.com/mleue/oxford-deep-nlp-2017-solutions/tree/master/practical-2 / https://github.com/mmakowski/oxford-deepnlp-practical2/blob/master/classification.ipynb / https://github.com/miguelvr/practical-2 / https://gist.github.com/stevenhao/483f96715ba30d46b4bb03fab0066096?short_path=dc4bc3c
